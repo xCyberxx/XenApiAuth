@@ -1,3 +1,3 @@
 # XenApiAuth
-# XenApiAuth Ayy
-# Lemme Check
+
+C# Class for XenApi
